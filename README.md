@@ -9,5 +9,5 @@ This repo contains my college's all contents.
 * [OS](https://github.com/Saurabh-pec/MyNoteBook/blob/main/OS-%20ppt%20(Saurabh)%20%20(1).pdf) 
 * [OOPL](https://github.com/Saurabh-pec/MyNoteBook/blob/main/OOPL.pdf)
 * ATCD
-* DBMS
+* [DBMS](https://github.com/Saurabh-pec/MyNoteBook/blob/main/Dbms.pdf)
 * DSA
