@@ -1,4 +1,5 @@
-# OS important topics
+# OS important topics 
+[OS-PPT](htps://github.com/Saurabh-pec/MyNoteBook/blob/main/OS-%20ppt%20(Saurabh)%20.pptx)
 
 ### <mark style="color:orange;">OS important topics and PP</mark>T.
 
