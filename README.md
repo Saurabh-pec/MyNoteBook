@@ -12,4 +12,4 @@ This repo contains my college's all contents.
 * [DBMS](https://github.com/Saurabh-pec/MyNoteBook/blob/main/Dbms.pdf)
 * DSA
 * [Information Security](https://github.com/Saurabh-pec/MyNoteBook/blob/main/Image%20Encryption%20Using%20AES%20Algorithm.pdf)
-* [EP]()
+* [EP](https://github.com/Saurabh-pec/MyNoteBook/blob/main/EP%20Assignment.pptx)
